@@ -1,0 +1,12 @@
+#torch==2.3.1
+torch==2.3.0
+torchvision==0.18.1
+#torch==2.0.1+cu118
+#torchvision==0.15.2+cu118
+datasets==2.14.5
+evaluate==0.4.1
+ipython==7.34.0
+#pandas==1.5.3
+pandas==2.0.3
+PyYAML==6.0.1
+transformers[torch]==4.34.0
