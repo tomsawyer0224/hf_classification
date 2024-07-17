@@ -13,6 +13,6 @@
 ```
 > See the './results' directory for more details.
 ```
-Test Loss	          Test Accuracy
+Test Loss	        Test Accuracy
 0.7963977456092834	0.9338235294117647
 ```
