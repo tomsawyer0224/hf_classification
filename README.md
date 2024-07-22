@@ -1,6 +1,7 @@
 # Image classification using the Hugging Face library
+This project provides an easy way to use many classification models in the HuggingFace library.
 # About this project:
-1. This project provides an easy way to use many classification models in the HuggingFace library.
+1. This is a personal project, for educational purposes only!
 2. You can fine-tune many Hugging Face models on many Hugging Face datasets with only one command line.
 # How to use:
 1. Clone this repo, then cd into hf_classification.
