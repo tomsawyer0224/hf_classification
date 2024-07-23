@@ -4,7 +4,7 @@ This project provides an easy way to use many classification models in the Huggi
 - This is a personal project, for educational purposes only!
 - You can fine-tune many Hugging Face models on many Hugging Face datasets with only one command line.
 # How to use:
-1. Clone this repo, cd into hf_classification.
+1. Clone this repo and cd into hf_classification.
 2. Install the requirements: pip install -q -r requirements.txt.
 3. Modify the config file (./config.yaml), then run the below command:
     ```
